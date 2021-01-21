@@ -1,23 +1,23 @@
 ### Sparks Foundation- (Graduate Rotational Internship Program) :
-# Author : Vishal Jaiswal
+## Author : Vishal Jaiswal
 
-# TASK-3: ‘Exploratory Data Analysis’ on Retail dataset ‘SampleSuperstore’
+### TASK-3: ‘Exploratory Data Analysis’ on Retail dataset ‘SampleSuperstore’
 
-# OBJECTIVE:
+### OBJECTIVE:
     1. To Analyse the Retail dataset and find out the weak areas where this store should work to make more profit.
     2. To find the business problem by doing Exploratory Data Analysis
 
-# Dataset: https://bit.ly/3i4rbWl
+### Dataset: https://bit.ly/3i4rbWl
 DataSet used for the exploratory analysis is a sample dataset, used sorely used for education purpose.
 
-# Installation Guide:
+### Installation Guide:
 1. You need to install python from https://www.python.org/
 2. Install Anaconda Navigator from https://www.anaconda.com/products/individual
 3. This will come with jupyter notebooks pre-install.
 4. Other libraries requied to execute the code are numpy, pandas, matplotlib, seaborn.
 
 
-# Conclusion :
+### Conclusion :
 > California and New York are the state with maximum Sales.
 > California and New York are the most profitable State.
 > Texas, Chio, Pennsylvania, Illinois and North Carolina are the state of mazor concern as Store is under loss because of sales in these states.
