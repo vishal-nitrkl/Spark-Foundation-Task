@@ -18,7 +18,7 @@ DataSet used for the exploratory analysis is a sample dataset, used sorely used 
 
 
 ### Conclusion :
-> California and New York are the state with maximum Sales.
+> California and New York are the state with maximum Sales.<br>
 > California and New York are the most profitable State.
 > Texas, Chio, Pennsylvania, Illinois and North Carolina are the state of mazor concern as Store is under loss because of sales in these states.
 > Sales in Texas must be minimized because it generate huge loss.
