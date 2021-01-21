@@ -19,9 +19,9 @@ DataSet used for the exploratory analysis is a sample dataset, used sorely used 
 
 ### Conclusion :
 > California and New York are the state with maximum Sales.<br>
-> California and New York are the most profitable State.
-> Texas, Chio, Pennsylvania, Illinois and North Carolina are the state of mazor concern as Store is under loss because of sales in these states.
-> Sales in Texas must be minimized because it generate huge loss.
-> Sales of binder is average therefore discount of binder should be reduced.
-> Store should stop selling Tables and Bookcases as these products are not generating any profit.
-> Store should be promoting Copiers more as less people are buying it currently but the profit on it is highest compared to other goods.
+> California and New York are the most profitable State.<br>
+> Texas, Chio, Pennsylvania, Illinois and North Carolina are the state of mazor concern as Store is under loss because of sales in these states.<br>
+> Sales in Texas must be minimized because it generate huge loss.<br>
+> Sales of binder is average therefore discount of binder should be reduced.<br>
+> Store should stop selling Tables and Bookcases as these products are not generating any profit.<br>
+> Store should be promoting Copiers more as less people are buying it currently but the profit on it is highest compared to other goods.<br>
